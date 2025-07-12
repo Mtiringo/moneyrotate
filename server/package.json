@@ -270,8 +270,7 @@
     "statuses": "^2.0.1",
     "string-width": "^5.1.2",
     "string-width-cjs": "^4.2.0",
-    "strip-ansi": "^7.1.0"
-    "strip-ansi-cjs": "^6.0.1",
+    "strip-ansi-cjs": "^4.2.0",
     "stripe": "^18.2.1",
     "sucrase": "^3.35.0",
     "supports-preserve-symlinks-flag": "^1.0.0",
